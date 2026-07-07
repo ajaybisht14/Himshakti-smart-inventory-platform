@@ -254,10 +254,3 @@ Product status automatically updates based on quantity:
 
 This project is open source and available under the MIT License.
 
-## 🤝 Support
-
-For support, email info@himshakti.com
-
----
-
-Built with ❤️ in Himachal Pradesh
