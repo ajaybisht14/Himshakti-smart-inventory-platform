@@ -101,7 +101,7 @@ my-app/
 - **Products** (`/products`) - Search, filter, and view all inventory items
 - **Transactions** (`/transactions`) - Complete transaction history with filtering
 - **Suppliers** (`/suppliers`) - Supplier directory with contact information
-- **Reports** (`/reports`) - Analytics, category breakdowns, and alerts
+- **Reports** (`/reports`) - Analytics, category breakdowns, and alerts 
 
 ## 🗄️ Database Models
 
@@ -212,15 +212,6 @@ curl -X POST http://localhost:3000/api/suppliers \
     "rating": 5
   }'
 ```
-
-## 🚢 Deployment
-
-### Deploy to Vercel
-
-1. Push code to GitHub
-2. Import project in Vercel
-3. Add `MONGODB_URI` environment variable
-4. Deploy!
 
 ### MongoDB Atlas Setup
 
