@@ -6,7 +6,7 @@ A comprehensive, production-ready inventory management system built with Next.js
 
 - 📊 **Real-time Dashboard** - Overview of inventory health, sales, and alerts
 - 📦 **Product Management** - Full CRUD operations with search and filtering
-- 💰 **Transaction Tracking** - Log purchases, sales, returns, and adjustments
+- 💰 **Transaction Tracking** - Log purchases, sales, and adjustments
 - 👥 **Supplier Management** - Maintain supplier relationships and ratings
 - 📈 **Analytics & Reports** - Category breakdowns, trends, and insights
 - ⚠️ **Smart Alerts** - Low stock and out-of-stock notifications
